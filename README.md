@@ -22,3 +22,16 @@ fuel_consumption_comb(l/100km), the combined fuel consumption rating (55% city, 
 fuel_consumption_comb(mpg), the combined fuel consumption rating (55% city, 45% highway), in miles per gallon (mpg).
 co2_emissions, the tailpipe emissions of carbon dioxide for combined city and highway driving, in grams per kilometer.
 
+
+## Business Objective : 
+
+The primary objective of the project is to develop a model that can accurately predict CO2 emissions based on different engine features of cars.
+The goal is to estimate the amount of CO2 a car will emit using the provided data.
+
+## Tools and Technologies:
+
+The project was developed using various tools and technologies, including:
+Python programming language
+Libraries such as NumPy, Matplotlib, SciPy, scikit-learn, and Streamlit
+Linear Regression, Random Forest, K-Nearest Neighbors (KNN), and Support Vector Regression (SVR) models for prediction
+Deployment on the cloud using Streamlit
